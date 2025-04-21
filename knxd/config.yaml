@@ -19,8 +19,8 @@ privileged:
 options:
   address: "0.0.1"
   client_address: "0.0.2:8"
-  interface: ncn5120
-  device: "/dev/serial/by-id/usb-1a86_USB_Serial-if00-port0"
+  interface: usb
+  device: ""
   log_error_level: warning
   usb_filters: single
   ip_address: ""
